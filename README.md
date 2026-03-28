@@ -8,7 +8,10 @@ This project demonstrates deploying a static website on AWS EC2 using Nginx and 
 - Hosted a custom HTML webpage
 - Configured security groups for HTTP access
 
-  ## Tech Used
+## Preview
+![Project Preview](screenshot_Project-preview.png)
+
+## Tech Used
   - AWS EC2
   - Linux
   - Nginx
