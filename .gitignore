@@ -1,0 +1,5 @@
+keypairs/
+*.pem
+*.pub
+*.log
+.env
